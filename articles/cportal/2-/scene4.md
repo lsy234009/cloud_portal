@@ -2,7 +2,7 @@
 
 第一步：点击左侧侧边栏“管理”，左上角“布局管理”的按钮
 
-      ![](/articles/cportal/2-/images/4-1.PNG)
+![](/articles/cportal/2-/images/4-1.PNG)
 
 
 第二步：点击布局管理下，“创建布局”的按钮
