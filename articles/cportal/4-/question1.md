@@ -21,7 +21,7 @@ Google JavaScript 编码规范指南：<http://alloyteam.github.io/JX/doc/specif
 	</Content>
 	</Module>
 
-<center>dd</center>
+<h1 style="text-align:center">居中对齐 </h1>
 
 ### 各块具体介绍如下
 
