@@ -57,13 +57,13 @@ Google JavaScript 编码规范指南：<http://alloyteam.github.io/JX/doc/specif
 
 4、Css编写
 
-     模板：
+模板：
 
 	.框架class  widget皮肤class  业务class{
 	     ….
 	}
 
-    示例：
+示例：
 
 	.commonlink .u-panel-heading{
 	    background: #eeeeef;

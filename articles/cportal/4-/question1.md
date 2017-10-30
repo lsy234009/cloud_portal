@@ -57,13 +57,13 @@ Google JavaScript 编码规范指南：<http://alloyteam.github.io/JX/doc/specif
 
 4、Css编写
 
-     模板：
+  模板：
 
 	.框架class  widget皮肤class  业务class{
 	     ….
 	}
 
-    示例：
+  示例：
 
 	.commonlink .u-panel-heading{
 	    background: #eeeeef;
@@ -72,7 +72,7 @@ Google JavaScript 编码规范指南：<http://alloyteam.github.io/JX/doc/specif
 	    line-height: 40px;
 	} 
 
-说明：
+  说明：
 
 	1：框架class会在页面主题切换时联动
     2：widget 皮肤class 会在布局个性化时编辑小部件皮肤时跟随联动
