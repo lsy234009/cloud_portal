@@ -1,4 +1,4 @@
-## 企业门户3.0 Widget开发
+## 云门户 Widget开发
 
 ### 什么是Widget
 
@@ -6,7 +6,7 @@ Widget,是一小块可以在任意一个基于HTML的Web页面上执行的代码
 
 ![](/articles/cportal/3-/images/w-1.PNG)
 
-Portal 2.0、3.0 中widget，遵循OpenSocial 2.5.1的规范
+Portal中widget，遵循OpenSocial 2.5.1的规范
 
 ![](/articles/cportal/3-/images/w-2.PNG)
 
