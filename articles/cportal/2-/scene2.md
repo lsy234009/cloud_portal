@@ -1,6 +1,6 @@
 ## 如何开发widget
 
-### 开发widget需要具备知识
+### 开发widget需具备的知识
 
 Widget 开发人员需要熟悉js、react、uui、comonjs等主流前端开发技术，编写代码时要遵循AMD等大众规范，具体代码编写参考
 Google JavaScript 编码规范指南：<http://alloyteam.github.io/JX/doc/specification/google-javascript.xml>
