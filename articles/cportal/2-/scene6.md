@@ -26,42 +26,42 @@ Widget规范里定义的属性示例如下：
 	  <![CDATA[
 		...
 
-1 属性数据类型
+1、属性数据类型
 
 Widget属性分为种5种：隐藏（hidden）、布尔（bool）、集合（list）、枚举（enum）、字符串（string）
 
 它们各自使用方式如下：
 
 (1) 字符串（string）
-	<UserPref name="height" display_name="高度" datatype="string" default_value="360" />
+	`<UserPref name="height" display_name="高度" datatype="string" default_value="360" />`
 
 (2) 枚举（enum）
   
-	<UserPref name="produc" display_name="产品" datatype="enum">
+	`<UserPref name="produc" display_name="产品" datatype="enum">
 	      <EnumValue value="nc65" display_value="nc65" />
 	      <EnumValue value="nc63" display_value="nc63" />
-	</UserPref>
+	</UserPref>`
 
 
 (3) 集合（list）
-	<UserPref name="system" display_name="系统" datatype="list" default_value="NC5|NC6" />
+	`<UserPref name="system" display_name="系统" datatype="list" default_value="NC5|NC6" />`
 
 (4) 布尔（bool）
-	<UserPref name="isenable" display_name="启用" datatype="bool" default_value="t" />
+	`<UserPref name="isenable" display_name="启用" datatype="bool" default_value="t" />`
 
 (5) 隐藏（hidden）
-	<UserPref name="mode" display_name="模式" datatype="hidden" default_value="1" />
+	`<UserPref name="mode" display_name="模式" datatype="hidden" default_value="1" />`
 
-2 属性状态
+2、属性状态
 Widget 属性状态分为：管理级和用户级
 
 status="1"  ：管理员和普通用户可见
 status="0" : 管理员可见
 
-3 属性默认值
+3、属性默认值
 Widget属性默认值，以xml里定义为准，如：default_value="360"，用户、管理员配置的属性在运行时会覆盖该属性。
 
-4 属性配置UI
+4、属性配置UI
 Widget属性配置UI指在设计器页面编辑某个widget时的界面，当widget开发人员指定特定界面时，portal将直接打开它。
 如下：
 
