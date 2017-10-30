@@ -4,8 +4,7 @@
 
 概述
 
-Widget属性分为模块属性和用户属性，模块属性是概要属性，描述widget标题、id、描述、配置ui等。用户属性是显示属性，是在widget加载时需要用的配置信息。
-模块属性对应widget定义xml中的ModulePrefs 用户属性对应widget 定义xml中的UserPref
+Widget属性分为模块属性和用户属性，模块属性是概要属性，描述widget标题、id、描述、配置ui等。用户属性是显示属性，是在widget加载时需要用的配置信息。模块属性对应widget定义xml中的ModulePrefs 用户属性对应widget 定义xml中的UserPref
 
 Widget规范里定义的属性示例如下：
 

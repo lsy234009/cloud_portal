@@ -120,9 +120,12 @@ Html编写要遵循uui 控件要求，html数据绑定、事件、
 在开发widget过程中，会涉及到系统级变量的获取，如：context(/portal、/integration)、widgetid等。
 系统目前提供如下系统变量的注入：
 
-(1).	${context}，应用上下文
-使用示例如下：
- 
-(2).	${widgetId}, 小部件标识
+(1).${context}，应用上下文
 使用示例如下：
 
+![](/articles/cportal/2-/images/2-1.PNG)
+ 
+(2).${widgetId}, 小部件标识
+使用示例如下：
+
+![](/articles/cportal/2-/images/2-2.PNG)
