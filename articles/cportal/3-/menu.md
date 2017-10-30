@@ -4,12 +4,12 @@
 
 第一步：进入管理中心的菜单设置
 
-![](/articles/cportal/2-/images/m-1.PNG)
+![](/articles/cportal/3-/images/m-1.PNG)
 
 第二步：点击+新增菜单
 
 
-![](/articles/cportal/2-/images/m-2.PNG)
+![](/articles/cportal/3-/images/m-2.PNG)
 
 第三步：填写菜单所需信息。
 
@@ -29,24 +29,24 @@
 
 显示顺序是填写自然数，按照大小顺序依次在侧边栏显示，单击保存即可创建成功
 
-![](/articles/cportal/2-/images/m-3.PNG)
+![](/articles/cportal/3-/images/m-3.PNG)
 
 注：
 
 倘若勾选了虚菜单选项，则可在其基础上增加子菜单，如下图所示：
 
-![](/articles/cportal/2-/images/m-4.PNG)
+![](/articles/cportal/3-/images/m-4.PNG)
 
 点击虚菜单右侧的+即可为其增加子菜单
 
-![](/articles/cportal/2-/images/m-5.PNG)
+![](/articles/cportal/3-/images/m-5.PNG)
 
 实例菜单效果如下：
 
-![](/articles/cportal/2-/images/m-6.PNG)
+![](/articles/cportal/3-/images/m-6.PNG)
 
 单击菜单如“xiaoxi”的展示效果如下：
 
-![](/articles/cportal/2-/images/m-7.PNG)
+![](/articles/cportal/3-/images/m-7.PNG)
 
 
