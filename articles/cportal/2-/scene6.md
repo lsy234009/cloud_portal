@@ -34,7 +34,7 @@ Widget属性分为种5种：隐藏（hidden）、布尔（bool）、集合（lis
 
 (1) 字符串（string）
 
-	`<UserPref name="height" display_name="高度" datatype="string" default_value="360" />`
+	<UserPref name="height" display_name="高度" datatype="string" default_value="360" />
 
 (2) 枚举（enum）
   
@@ -46,15 +46,15 @@ Widget属性分为种5种：隐藏（hidden）、布尔（bool）、集合（lis
 
 (3) 集合（list）
 
-	`<UserPref name="system" display_name="系统" datatype="list" default_value="NC5|NC6" />`
+	<UserPref name="system" display_name="系统" datatype="list" default_value="NC5|NC6" />
 
 (4) 布尔（bool）
 
-	`<UserPref name="isenable" display_name="启用" datatype="bool" default_value="t" />`
+	<UserPref name="isenable" display_name="启用" datatype="bool" default_value="t" />
 
 (5) 隐藏（hidden）
 
-	`<UserPref name="mode" display_name="模式" datatype="hidden" default_value="1" />`
+	<UserPref name="mode" display_name="模式" datatype="hidden" default_value="1" />
 
 2、属性状态
 Widget 属性状态分为：管理级和用户级
