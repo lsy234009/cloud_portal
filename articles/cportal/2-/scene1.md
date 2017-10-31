@@ -7,6 +7,7 @@
 第一步：在potal数据库中增加一行记录，如下图增加的“青色”的记录
 
 ![](/articles/cportal/2-/images/1-1.png)
+<p align="center">图 1</p>
 
 其中id对应于步骤的css文件名，如增加的青色皮肤id为test对应test.css
 
