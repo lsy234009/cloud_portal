@@ -17,11 +17,9 @@
 每个用户都有自己独特的习惯和喜好，最终用户对于系统默认的首页，可以按照自己的工作重点和工作习惯灵活个性化自己的工作台
 
 ![](/articles/cportal/1-/images/3.PNG)
-<p align="center">图 1</p>
 
 ### 快速
 
 通过门户，可以让企业应用系统开发者快速的进行应用集成
 
 ![](/articles/cportal/1-/images/4.PNG)
-<p align="center">图 2</p>
