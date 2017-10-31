@@ -5,10 +5,12 @@
 Widget,是一小块可以在任意一个基于HTML的Web页面上执行的代码，它的表现形式可能是视频，地图，新闻，小游戏等等。它的根本思想来源于代码复用，通常情况下，Widget的代码形式包含了DHTML,JavaScript以及Adobe Flash。
 
 ![](/articles/cportal/3-/images/w-1.PNG)
+<p align="center">图 1</p>
 
 Portal中widget，遵循OpenSocial 2.5.1的规范
 
 ![](/articles/cportal/3-/images/w-2.PNG)
+<p align="center">图 2</p>
 
 #### Widget-与Portlet区别
 
@@ -17,16 +19,19 @@ Portlet  服务器端渲染；形式单一；重量级
 Widget   客户端渲染；注册形式多样；轻量
 
 ![](/articles/cportal/3-/images/w-3.PNG)
+<p align="center">图 3</p>
 
 #### Widget-实例
 
 简洁版
 
 ![](/articles/cportal/3-/images/w-4.PNG)
+<p align="center">图 4</p>
 
 经典版
 
 ![](/articles/cportal/3-/images/w-5.PNG)
+<p align="center">图 5</p>
 
 ### Widget分类
 
@@ -101,6 +106,7 @@ Shindig 中 Gadget 之间的通信通过 pubsub 实现，展现 Gadget 的页面
 待办任务集成widget
 
 ![](/articles/cportal/3-/images/w-6.PNG)
+<p align="center">图 6</p>
 
 #### 数据类型
 
@@ -140,10 +146,12 @@ Shindig 中 Gadget 之间的通信通过 pubsub 实现，展现 Gadget 的页面
 	<UserPref name="mode" display_name="模式" datatype="hidden" default_value="1" />
 
 ![](/articles/cportal/3-/images/w-7.PNG)
+<p align="center">图 7</p>
 
 #### Widget属性示例
 
 ![](/articles/cportal/3-/images/w-8.PNG)
+<p align="center">图 8</p>
 
 ### 开发widget
 
@@ -272,11 +280,13 @@ Html编写要遵循uui 控件要求，html数据绑定、事件、
 使用示例如下：
 
 ![](/articles/cportal/3-/images/1.PNG)
+<p align="center">图 9</p>
  
 (2).${widgetId}, 小部件标识
 使用示例如下：
 
 ![](/articles/cportal/3-/images/2.PNG)
+<p align="center">图 10</p>
 
 
 

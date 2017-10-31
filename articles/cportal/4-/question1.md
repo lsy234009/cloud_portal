@@ -124,8 +124,15 @@ Html编写要遵循uui 控件要求，html数据绑定、事件、
 使用示例如下：
 
 ![](/articles/cportal/4-/images/1.PNG)
+<p align="center">图 1</p>
  
+<div align=center>
+<img src="/articles/cportal/4-/images/1.PNG"/>
+</div>
+<p align="center">图 1</p>
+
 (2).${widgetId}, 小部件标识
 使用示例如下：
 
 ![](/articles/cportal/4-/images/2.PNG)
+<p align="center">图 2</p>

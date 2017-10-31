@@ -77,8 +77,10 @@ Widget属性配置UI指在设计器页面编辑某个widget时的界面，当wid
 不指定时，portal提供默认简单的属性配置界面，如下图：
 
 ![](/articles/cportal/2-/images/6-1.png)
+<p align="center">图 1</p>
 
 默认界面控件解析说明：
 
 ![](/articles/cportal/2-/images/6-2.PNG)
+<p align="center">图 2</p>
 

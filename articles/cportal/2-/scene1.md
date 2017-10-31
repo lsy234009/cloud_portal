@@ -103,5 +103,7 @@
 实例效果图如下
 
 ![](/articles/cportal/2-/images/1-2.png)
+<p align="center">图 2</p>
 
 ![](/articles/cportal/2-/images/1-3.png)
+<p align="center">图 3</p>
