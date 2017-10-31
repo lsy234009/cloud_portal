@@ -1,5 +1,6 @@
 ## 云门户 Widget开发
 
+
 ### 什么是Widget
 
 Widget,是一小块可以在任意一个基于HTML的Web页面上执行的代码，它的表现形式可能是视频，地图，新闻，小游戏等等。它的根本思想来源于代码复用，通常情况下，Widget的代码形式包含了DHTML,JavaScript以及Adobe Flash。

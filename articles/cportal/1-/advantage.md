@@ -1,5 +1,6 @@
 ## 产品优势
 
+
 * 基于轻量widget技术，支持widget页面组装
 
 * 全面支持Restful API，支持WOA架构
