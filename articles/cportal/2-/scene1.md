@@ -14,11 +14,14 @@
 
 第二步：添加portal\themes\css\test.css，test.css具体格式如下
 
-	.cloud {
-	    background:#F0FFF0;
-	}
-	
-	.navbar-portal .navbar-toggle .icon-bar {
+<table>
+	<tr>
+		<td>
+			
+		.cloud {
+		    background:#F0FFF0;
+		}
+		.navbar-portal .navbar-toggle .icon-bar {
 	    background-color: #ffffff;
 	}
 	
@@ -98,7 +101,9 @@
 	.navbar-portal .navbar-nav li a i {
 	    color: #757575;
 	}
+</table>
 
+	
 主要class说明如下表
 ![](/articles/cportal/2-/images/1-0.PNG)
 
