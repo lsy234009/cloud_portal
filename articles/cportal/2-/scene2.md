@@ -5,7 +5,7 @@
 Widget 开发人员需要熟悉js、react、uui、comonjs等主流前端开发技术，编写代码时要遵循AMD等大众规范，具体代码编写参考
 Google JavaScript 编码规范指南：<http://alloyteam.github.io/JX/doc/specification/google-javascript.xml>
 
- 一个widget xml定义结如下：
+ 一个widget xml定义结构如下：
 
 	<?xml version="1.0" encoding="UTF-8"?>
 	<Module><ModulePrefs title="待办-任务"></ModulePrefs>
