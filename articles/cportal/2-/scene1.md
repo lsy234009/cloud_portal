@@ -98,6 +98,9 @@
 	    color: #757575;
 	}
 
+主要class说明如下表
+![](/articles/cportal/2-/images/1-0.PNG)
+
 第三步：添加portal\logo_test.png和skin_test.png图片，它们分别对应添加皮肤的导航栏的logo和选择皮肤里面的“青色”上面的缩略图
 
 实例效果图如下
